@@ -1,0 +1,14 @@
+.header {
+    justify-content: flex-start;
+    display: flex;
+}
+li, a {
+    display: inline;
+    text-decoration: none;  
+}
+.left {
+    align-content: flex-start;
+}
+.right{
+    align-content: flex-end;
+}
