@@ -1,6 +1,6 @@
-.header {
-    justify-content: flex-start;
+ul {
     display: flex;
+    align-content: flex-start;
 }
 li, a {
     display: inline;
